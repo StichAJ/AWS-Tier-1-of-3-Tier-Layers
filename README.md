@@ -52,11 +52,10 @@ This is where we’ll host the business logic, APIs, and core services that powe
 
 ## 📣 Stay Connected
 
-Follow this project on [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) and watch this repo for updates.  
+Follow this project on https://www.linkedin.com/in/sharonnibbs/![image](https://github.com/user-attachments/assets/e4949cf8-d275-4dcc-8223-0cddd88362a6)
+and watch this repo for updates.  
 
 ---
 
-## 📜 License
 
-MIT License
 
