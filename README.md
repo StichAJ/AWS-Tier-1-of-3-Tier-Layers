@@ -31,6 +31,12 @@ This repository documents the **first layer** of a fully **serverless 3-tier AWS
 ---
 
 ## 📂 Folder Structure
+Tier1-Webserver-Layer/
+│
+├── README.md                 # You're here
+├── architecture-diagram.png # Visual of Layer 1
+├── cloudformation/          # Optional IaC (coming soon)
+└── notes.md                 # Setup notes, commands, and steps
 
 
 ---
