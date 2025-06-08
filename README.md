@@ -52,7 +52,7 @@ This is where we’ll host the business logic, APIs, and core services that powe
 
 ## 📣 Stay Connected
 
-Follow this project on https://www.linkedin.com/in/sharonnibbs/![image](https://github.com/user-attachments/assets/e4949cf8-d275-4dcc-8223-0cddd88362a6)
+Follow this project on https://www.linkedin.com/in/sharonnibbs/![[image](https://github.com/user-attachments/assets/e4949cf8-d275-4dcc-8223-0cddd88362a6)](https://www.linkedin.com/feed/update/urn:li:share:7337476963202199552/)
 and watch this repo for updates.  
 
 ---
